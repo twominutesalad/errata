@@ -1,2 +1,2 @@
-# errata
+# Errata
 Errata for published work.
